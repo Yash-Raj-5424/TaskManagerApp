@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# Node / Frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
